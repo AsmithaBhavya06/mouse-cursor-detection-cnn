@@ -20,3 +20,4 @@ class DatasetLoader:
 
     def __len__(self):
         return len(self.images)
+    print("DatasetLoader class defined successfully.")
